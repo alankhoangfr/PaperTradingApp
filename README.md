@@ -1,6 +1,11 @@
-# trading
+# PaperTradingApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+
+This is a front end application where it allows users to search for stocks and perform a high-level analysis. The client can also save the stocks into a watchlist. 
+
+You can check out the application: https://alankhoangfr.github.io/PaperTradingApp/#/Research
+
 
 ## Available Scripts
 
