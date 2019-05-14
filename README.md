@@ -41,4 +41,4 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ### `npm run deploy`
 
-This will deploy the app onto a Github page https://alankhoangfr.github.io/trading/#/Research
+This will deploy the app onto a Github page https://alankhoangfr.github.io/PaperTradingApp/#/Research
